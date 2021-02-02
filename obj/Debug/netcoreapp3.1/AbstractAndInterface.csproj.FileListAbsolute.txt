@@ -1,0 +1,13 @@
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\bin\Debug\netcoreapp3.1\AbstractAndInterface.exe
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\bin\Debug\netcoreapp3.1\AbstractAndInterface.deps.json
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\bin\Debug\netcoreapp3.1\AbstractAndInterface.runtimeconfig.json
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\bin\Debug\netcoreapp3.1\AbstractAndInterface.runtimeconfig.dev.json
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\bin\Debug\netcoreapp3.1\AbstractAndInterface.dll
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\bin\Debug\netcoreapp3.1\AbstractAndInterface.pdb
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\obj\Debug\netcoreapp3.1\AbstractAndInterface.csprojAssemblyReference.cache
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\obj\Debug\netcoreapp3.1\AbstractAndInterface.AssemblyInfoInputs.cache
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\obj\Debug\netcoreapp3.1\AbstractAndInterface.AssemblyInfo.cs
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\obj\Debug\netcoreapp3.1\AbstractAndInterface.csproj.CoreCompileInputs.cache
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\obj\Debug\netcoreapp3.1\AbstractAndInterface.dll
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\obj\Debug\netcoreapp3.1\AbstractAndInterface.pdb
+C:\Users\17dor\Desktop\GC Slns\AbstractAndInterfacePrac\AbstractAndInterface\obj\Debug\netcoreapp3.1\AbstractAndInterface.genruntimeconfig.cache
